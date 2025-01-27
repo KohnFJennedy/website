@@ -2,10 +2,18 @@ p {
     color: rgb(28, 121, 150);
     background-color: rgba(243, 205, 155, 0.897);
     font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
   }
 
 h1 {
     color:rgb(92, 27, 27);
     text-decoration:wavy;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+  }
+a {
+    color:rgb(24, 73, 73);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
   }
