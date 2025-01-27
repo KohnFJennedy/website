@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(128, 240, 240, 0.76);
+    background-color: rgba(106, 196, 196, 0.623);
   }
 p {
     color: rgb(28, 121, 150);
@@ -11,12 +11,12 @@ p {
 h1 {
     color:rgb(92, 27, 27);
     text-decoration:wavy;
-    text-indent: 25%;
+    text-indent: 50%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
   }
 a {
-    color:rgb(24, 73, 73);
+    color:rgb(86, 105, 211);
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
