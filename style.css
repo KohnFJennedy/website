@@ -1,5 +1,11 @@
 p {
-    color: rgb(0, 0, 0);
+    color: rgb(28, 121, 150);
     background-color: rgba(243, 205, 155, 0.897);
     font-family: 'Times New Roman', Times, serif;
+  }
+
+h1 {
+    color:rgb(92, 27, 27);
+    text-decoration:wavy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
