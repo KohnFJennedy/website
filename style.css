@@ -10,6 +10,11 @@ header {
   
   }
 
+header .logo {
+    float: left;
+  }
+
+
 header .main-nav {
   height: 70px;
   float: left;
@@ -32,8 +37,3 @@ header .main-nav li a {
   padding: 0px 15px;
 }
 
-header .logo {
-    float: left;
-    height: 70px;
-    width: 70px;
-  }
