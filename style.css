@@ -35,7 +35,7 @@ header .main-nav li a {
   padding: 0px 15px;
 }
 
-#mainpage {
+body {
   width: 100%;
   height: 100%;
   background-image: url(img/background.png);
