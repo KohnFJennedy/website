@@ -35,7 +35,7 @@ header .main-nav li a {
   padding: 0px 15px;
 }
 
-#mainpage {
+body {
   width: 100%;
   height: 1000px;
   background-image: url(img/background.png);
@@ -43,10 +43,7 @@ header .main-nav li a {
   background-size: cover;
   background-position: center;
   margin: 0%;
-  padding: 0%
-
-}
-
-body {
+  padding: 0%;
   background-color: rgba(106, 196, 196, 0.623);
 }
+
