@@ -15,12 +15,22 @@ header .main-nav {
   float: left;
   margin: 0;
   padding: 0px 15px;
+  line-height: 70px;
 }
 
 header .main-nav li {
     list-style-type: none;
     display: inline-block;
   }
+
+header .main-nav li a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 20px;
+  letter-spacing: 4px;
+  padding: 0px 15px;
+}
 
 header .logo {
     float: left;
