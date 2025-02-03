@@ -14,7 +14,7 @@ header .main-nav {
   height: 70px;
   float: left;
   margin: 0;
-  padding: 0;
+  padding: 0px 15px;
 }
 
 header .main-nav li {
