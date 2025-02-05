@@ -37,6 +37,7 @@ header .main-nav li a {
 
 body {
   background-image: url(img/background.png);
+  height: 1080px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
