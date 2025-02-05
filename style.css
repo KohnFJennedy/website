@@ -44,6 +44,13 @@ body {
   background-color: rgba(106, 196, 196, 0.623);
 }
 
+bodys {
+  background-image: url(img/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(106, 196, 196, 0.623);
+}
 .s2eps {
   display: flex;
   flex-direction: row;
