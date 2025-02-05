@@ -39,22 +39,13 @@ header .main-nav li a {
 
 body {
   background-image: url(img/background.png);
-  height: 1500px;
+  height: 1240px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-color: rgba(106, 196, 196, 0.623);
 }
 
-.bodys {
-  background-image: url(img/background.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  margin: 0%;
-  padding: 0%;
-  background-color: rgba(106, 196, 196, 0.623);
-}
 .s2eps {
   display: flex;
   flex-direction: row;
