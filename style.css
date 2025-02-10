@@ -89,9 +89,8 @@ letter-spacing: 1px;
 padding: 10px 10px;
 
 position: absolute;
-top: 20px;
-float: right;
-
+top: 25px;
+right: 25px;
 
 cursor: pointer;
 border: none;
