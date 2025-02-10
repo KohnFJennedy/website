@@ -15,7 +15,7 @@ function toggleBackground() {
 
 
 const clickSound = new Audio('img/sound.mp3');
-const logo = document.getElementById('logo');
+const logo = document.querySelector('.logo');
 
 logo.addEventListener('click', function() {
     clickSound.play();
