@@ -39,6 +39,7 @@ header .main-nav li a {
 
 body {
   background-image: url(img/background.png);
+  filter: brightness(95%);
   height: 1350px;
   background-repeat: no-repeat;
   background-size: cover;
