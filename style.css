@@ -32,7 +32,7 @@ header .main-nav li a {
   font-weight: 50px;
   letter-spacing: 1px;
   padding: 0px 15px;
-  text-decoration:double;
+
 
 }
 
@@ -78,13 +78,20 @@ body {
 
 
 button {
-color: white;
 text-decoration: none;
+color: white;
+background-color: rgb(235, 154, 167);
 font-family: Arial, Helvetica, sans-serif;
 font-weight: 50px;
+font-weight: bold;
 letter-spacing: 1px;
-padding: 0px 15px;
-text-decoration:double;
+padding: 10px 10px;
+
 display: inline-block;
 float: right;
+
+
+cursor: pointer;
+border: none;
+border-radius: 5px;
 }
