@@ -6,10 +6,8 @@ function toggleBackground() {
 
     if (isOriginalBackground) {
         body.style.backgroundImage = 'url("img/background2.png")';
-        body.style.filter = "brightness(50%)";
     } else {
         body.style.backgroundImage = 'url("img/background.png")';
-        body.style.filter = "brightness(50%)";
     }
 
     isOriginalBackground = !isOriginalBackground;
