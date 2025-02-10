@@ -18,7 +18,7 @@ const clickSound = new Audio('img/sound.mp3');
 const logos = document.querySelector('.logo');
 
 
-logos.forEach(function(logo)){
+logos.forEach(function(logo){
 logo.addEventListener('click', function(event) {
 
     event.preventDefault();
