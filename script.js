@@ -12,3 +12,11 @@ function toggleBackground() {
 
     isOriginalBackground = !isOriginalBackground;
 }
+
+
+const clickSound = new Audio('img/sound.mp3');
+const logo = document.getElementById('logo');
+
+logo.addEventListener('click', function() {
+    clickSound.play();
+});

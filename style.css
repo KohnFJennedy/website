@@ -9,6 +9,7 @@ header {
 
 header .logo {
     float: left;
+    cursor: pointer;
   }
 
 
