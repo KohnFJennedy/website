@@ -19,10 +19,10 @@ const logos = document.querySelector('.logo');
 
 
 
-    logos.addEventListener('click', function(event) {
-        event.preventDefault();
-        clickSound.play();
-        clickSound.addEventListener('ended', function() {
-            window.location.href = 'index.html';
-        });
-    });
+logos.addEventListener('click', function(event) {
+event.preventDefault();
+clickSound.play();
+clickSound.addEventListener('ended', function() {
+window.location.href = 'index.html';
+});
+});
