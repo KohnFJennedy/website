@@ -2,7 +2,7 @@
 
 header {
     width: 50%;
-    height: 100px;
+    height: 70px;
     position: relative;
   
   }
@@ -14,11 +14,11 @@ header .logo {
 
 
 header .main-nav {
-  height: 100px;
+  height: 70px;
   float: left;
   margin: 0;
   padding: 10px 10px;
-  line-height: 100px;
+  line-height: 70px;
 }
 
 header .main-nav li {
@@ -30,7 +30,7 @@ header .main-nav li a {
   color: white;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
-  font-weight: 80px;
+  font-weight: 50px;
   letter-spacing: 1px;
   padding: 10px 10px;
 
