@@ -22,7 +22,7 @@ header .main-nav {
 
 header .main-nav li {
     list-style-type: none;
-    display: inline-block;
+    display: flex;
   }
 
 header .main-nav li a {
