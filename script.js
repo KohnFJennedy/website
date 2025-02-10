@@ -18,12 +18,11 @@ const clickSound = new Audio('img/sound.mp3');
 const logos = document.querySelector('.logo');
 
 
-logos.forEach(function(logo) {
-    logo.addEventListener('click', function(event) {
+
+    logos.addEventListener('click', function(event) {
         event.preventDefault();
         clickSound.play();
         clickSound.addEventListener('ended', function() {
             window.location.href = 'index.html';
         });
     });
-});
