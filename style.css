@@ -79,7 +79,7 @@ body {
 }
 
 
-button {
+#jellyfishButton {
 text-decoration: none;
 color: white;
 background-color: rgb(235, 154, 167);
@@ -114,4 +114,12 @@ border-radius: 5px;
   padding: 20px;
   border-radius: 8px;
   text-align: center;
+}
+
+#submitButton {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
 }
