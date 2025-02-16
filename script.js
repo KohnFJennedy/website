@@ -26,3 +26,25 @@ clickSound.addEventListener('ended', function() {
 window.location.href = 'index.html';
 });
 });
+
+
+
+
+
+document.getElementById('surveyForm').addEventListener('submit', function(event) {
+    event.preventDefault(); 
+
+    
+    const selectedSeason = document.querySelector('input[name="season"]:checked');
+    
+    if (selectedSeason) {
+        document.getElementById('popup').style.display = 'block';
+    } else {
+        alert("Please select a season before submitting.");
+    }
+});
+
+
+document.getElementById('closePopup').addEventListener('click', function() {
+    document.getElementById('popup').style.display = 'none';
+});

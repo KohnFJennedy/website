@@ -17,6 +17,32 @@
         </header>
         <button onclick="toggleBackground()">Go Jellyfishing</button>
 
+
+
+
+        
+        <div class="survey-container">
+            <h2>What is your favorite season?</h2>
+            <form id="surveyForm">
+                <input type="radio" id="season1" name="season" value="1">
+                <label for="season1">Season 1</label><br>
+    
+                <input type="radio" id="season2" name="season" value="2">
+                <label for="season2">Season 2</label><br>
+    
+                <input type="radio" id="season3" name="season" value="3">
+                <label for="season3">Season 3</label><br>
+    
+                <button type="submit" id="submitButton">Submit</button>
+            </form>
+        </div>
+    
+        <div id="popup" class="popup">
+            <p>Your submission has been received!</p>
+            <button id="closePopup">Close</button>
+        </div>
+
+
         <script src="script.js"></script>
     </body>
 </html>
