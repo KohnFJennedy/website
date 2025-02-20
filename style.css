@@ -73,7 +73,8 @@ body {
 
 .s2ep h3 {
   font-size: 20px;
-  color: black;
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke: 0.5px black;
   letter-spacing: -0.4px;
   font-style: italic;
 }
@@ -143,6 +144,6 @@ a {
   color: inherit;        
 }
 a:hover {
-  color: #ff6347;  
+  color: #e4988b;  
   text-decoration: underline;
 }
