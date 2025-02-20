@@ -136,3 +136,9 @@ border-radius: 5px;
   padding: 10px;
   cursor: pointer;
 }
+
+
+a {
+  text-decoration: none; /* Removes the underline */
+  color: inherit;        /* Makes the link text the same color as its parent (can adjust as needed) */
+}
