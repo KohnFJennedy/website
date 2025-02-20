@@ -74,7 +74,7 @@ body {
 .s2ep h3 {
   font-size: 20px;
   color: rgb(216, 216, 216);
-  -webkit-text-stroke: 0.9px black;
+  -webkit-text-stroke: 0.4px black;
   letter-spacing: -0.4px;
   font-style: italic;
 }
